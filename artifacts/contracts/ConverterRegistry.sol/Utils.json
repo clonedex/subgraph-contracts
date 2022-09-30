@@ -1,0 +1,17 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Utils",
+  "sourceName": "contracts/ConverterRegistry.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3006080604052600080fd00a165627a7a723058201bd4e2e89d1f6313d5044feea203127c477adf732ec906169cb8ef58419166fc0029",
+  "deployedBytecode": "0x6080604052600080fd00a165627a7a723058201bd4e2e89d1f6313d5044feea203127c477adf732ec906169cb8ef58419166fc0029",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
